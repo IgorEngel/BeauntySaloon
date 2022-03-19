@@ -1,5 +1,0 @@
-# BeauntySaloon
-
-teste teste
-
-teste
